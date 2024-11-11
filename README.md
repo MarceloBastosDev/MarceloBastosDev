@@ -1,4 +1,4 @@
-## Olá, eu sou Marcelo Bastos!  
+## Marcelo Bastos, Desenvolvedor Backend/Frontend 👋
 
 ![MarceloBastosDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBastosDev&show_icons=true&theme=radical)
 
